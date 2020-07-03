@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+
+
+
+.Top {
+    background-color:darkslategrey;
+    color: white;
+    padding:5px;
+    padding-bottom: 35px;
+    
+
+}
+.Top h1 {
+font-size:20px;
+margin-left: 80px;
+padding-top: 25px;
+}
+.Top p {
+ line-height:5px; 
+ font-size: 15px; 
+ margin-left: 80px;
+ 
+}
+
+.welcome{
+    background-color:palevioletred;
+    color: white;
+    padding:70px;
+    padding-bottom: 10px;
+    
+}
+.welcome h1{
+text-align: center;
+}
+.welcome p{
+ line-height: 3px;
+ text-align: center;
+ font-size: 15px;
+ 
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    margin-left: 80px;
+    margin-top: 2px;
+    margin-bottom: 45px;
+  }
+  .message {
+    padding: 5px 25px;
+    background-color:#008000;
+    cursor:pointer;
+    box-shadow: 0 5px #022e13;
+  }
+  .fa {
+    color: #008000;
+    margin-left: 15px;
+    
+  }
+
+  a {
+    opacity: 5px;
+    float:right;
+    margin-right:75px;
+    margin-top:2px;
+    
+    
+  
+    }
+    .fa p {
+      color: white;
+      margin-left:5px ;
+      margin-bottom: 1px;
+      font-style: unset;
+
+    }
+    
+.symbol p {
+  float: right;
+  transform: rotate(90deg);
+  line-height: 100px;
+  font-weight: bold;
+  font-size: 25px;
+  
+}
